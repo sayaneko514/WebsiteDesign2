@@ -4450,17 +4450,17 @@
 	-o-transition:all 500ms ease;
 }
 
-.frape-block .inner-box:hover .image img{
+.drink-block .inner-box:hover .image img{
 	opacity:0.6;
 	transform:scale(1.05,1.05);
 }
 
-.frape-block .inner-box .lower-box{
+.drink-block .inner-box .lower-box{
 	position:relative;
 	padding:40px 20px 25px;
 }
 
-.frape-block .inner-box .price{
+.drink-block .inner-box .price{
 	position:absolute;
 	right:30px;
 	top:-30px;
@@ -4475,7 +4475,7 @@
 	background-color:#27272f;
 }
 
-.frape-block .inner-box .price:before{
+.drink-block .inner-box .price:before{
 	position:absolute;
 	content:'';
 	left:4px;
@@ -4486,12 +4486,12 @@
 	border: 1px dashed rgba(255,255,255,0.60);
 }
 
-.frape-block .inner-box .lower-box h6{
+.drink-block .inner-box .lower-box h6{
 	font-weight:500;
 	margin-bottom:8px;
 }
 
-.frape-block .inner-box .lower-box h6 a{
+.drink-block .inner-box .lower-box h6 a{
 	position:relative;
 	color:#27272f;
 	transition:all 500ms ease;
@@ -4501,13 +4501,13 @@
 	-o-transition:all 500ms ease;
 }
 
-.frape-block .inner-box .lower-box .text{
+.drink-block .inner-box .lower-box .text{
 	position:relative;
 	line-height:1.8em;
 	color:#5e5e5e;
 }
 
-.frape-block .inner-box .lower-box h6 a:hover{
+.drink-block .inner-box .lower-box h6 a:hover{
 	color:#beb996;
 }
 
